@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(231, 231, 231);
+    display: flex;
+    margin: 20px;
+}
+.javascript, .css{
+    border: 1px solid black;
+    margin: 20px;
+    background-color: rgb(166, 166, 173);
+    color: rgb(10, 9, 9);
+    padding: 10px;
+    border-radius: 10px;
+}
